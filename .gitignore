@@ -1,0 +1,6 @@
+.streamlit
+__pycache__
+myenv
+.vscode
+data.csv
+node_modules
